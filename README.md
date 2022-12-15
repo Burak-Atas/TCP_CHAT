@@ -19,6 +19,6 @@
   **/quit : çıkış yapmak için kullanılır.
   
   ####Eklenecekler
-  --/file : var olan dosyaları gösrerir
-  --/upload : sunucuya dosya yükler
+  --/file : var olan dosyaları gösrerir          
+  --/upload : sunucuya dosya yükler          
   
