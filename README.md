@@ -22,3 +22,11 @@
   --/file : var olan dosyaları gösrerir          
   --/upload : sunucuya dosya yükler          
   
+  
+  **Örnek Kullanım**      
+  
+  /msg  "mesajınız"
+  /nick  "yeni isminiz"
+  /rooms
+  /download
+  /quit
